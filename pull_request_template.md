@@ -18,20 +18,21 @@ No known or significant performance impact.
 ## Testing Assessment
 <!-- Please describe what testing has been done. -->
 
-- [x] Unit Tests
-- [x] Integration Tests
+- [ ] Unit Tests
+- [ ] Integration Tests
 
 ## Security Assessment
 <!-- Please verify that the change does not introduce any of the following security issues. -->
 
-- [x] Injection Flaws
-- [x] Buffer overflows
-- [x] Insecure Cryptographic Storage
-- [x] Insecure Communications
-- [x] Improper Error Handling
-- [x] XSS
-- [x] Improper Access Control
-- [x] CSRF
+- [ ] Injection Flaws
+- [ ] Buffer overflows
+- [ ] Insecure Cryptographic Storage
+- [ ] Insecure Communications
+- [ ] Improper Error Handling
+- [ ] XSS
+- [ ] Improper Access Control
+- [ ] Improper Logging (e.g. PII)
+- [ ] CSRF
 
 
 <!-- this file in in repo: .github/pull_request_temaplate.md and is an org-wide default. You can override each repo with a local file -->
